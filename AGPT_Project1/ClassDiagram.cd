@@ -1,0 +1,116 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="TransformComponent" Collapsed="true">
+    <Position X="0.5" Y="5.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAAEAAAAAAAACAIAACAAAAAggAAAAAAgAABAA=</HashCode>
+      <FileName>TransformComponent.hpp</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Sprite">
+    <Position X="15" Y="1.25" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAACAAAAAAQAQAAAAABAAAAAAiAQABAAAEAAgAI=</HashCode>
+      <FileName>Sprite.hpp</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Component">
+    <Position X="2.75" Y="5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQgAAAIAKAAgQAAAAEACAAAAAAAAAAAABBgAAAABIA=</HashCode>
+      <FileName>Component.hpp</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SoundComponent" Collapsed="true">
+    <Position X="0.5" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AACAAAAACAAAAAAAAEAIAE0ABAAAAAAQAAAgAAAARAA=</HashCode>
+      <FileName>SoundComponent.hpp</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="RenderComponent" Collapsed="true">
+    <Position X="0.5" Y="2.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAQAACAABgAAAAABAA=</HashCode>
+      <FileName>RenderComponent.hpp</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ObjectPool">
+    <Position X="4" Y="1.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAAAAAEAAAAgQAAAAAAAAQAAAAABJAABAgAAA=</HashCode>
+      <FileName>ObjectPool.hpp</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MovementComponent" Collapsed="true">
+    <Position X="0.5" Y="3" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQABBIFAASSAAgAAAAAABQAAAECAQAAAEYAAAAABAA=</HashCode>
+      <FileName>MovementComponent.hpp</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Level">
+    <Position X="12" Y="1.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AITgAAAAAAAABAAAAAAAAAAAAAAAAAgBABAAAAAEAAA=</HashCode>
+      <FileName>Level.hpp</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="InputHandler">
+    <Position X="10.5" Y="1.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EAQAAAKIAAAAAAEAgAQIIECAAACAAAAAAGIBAIAHQAM=</HashCode>
+      <FileName>InputHandler.hpp</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Graphics">
+    <Position X="9" Y="1.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAARQAQAAAAABACAAAACAIAAAAAEBAgAE=</HashCode>
+      <FileName>Graphics.hpp</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GameObject">
+    <Position X="7.5" Y="1.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ABQAAAAAAAAoAEYAUACIBBBAAAAABgREYBBgAMICAAA=</HashCode>
+      <FileName>GameObject.hpp</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CollisionManager">
+    <Position X="5.75" Y="1.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAACAAAAQAAAAAAAAAAAAAAAAAAAAAAgEADAAAA=</HashCode>
+      <FileName>CollisionManager.hpp</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CollisionComponent" Collapsed="true">
+    <Position X="0.5" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>IgQAAAAAAJgAAQAAAAFAAEAAAAQAAAGAAEACCCQABIA=</HashCode>
+      <FileName>CollisionComponent.hpp</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AnimationComponent" Collapsed="true">
+    <Position X="0.5" Y="6" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAAABIEAAAABAAAAAAABAgEAAACBAAIAAgBAA=</HashCode>
+      <FileName>AnimationComponent.hpp</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Animation">
+    <Position X="13.5" Y="1.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAIAIwAQABAAggCAAAAQAABAISAggRBAAIAACAAE=</HashCode>
+      <FileName>AnimationClass.hpp</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AIMovementComponent" Collapsed="true">
+    <Position X="0.5" Y="6.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQEgAAAAACAIAgAAAAAABAAAAAAEQAAAAABAAAABAA=</HashCode>
+      <FileName>AIMovementComponent.hpp</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
