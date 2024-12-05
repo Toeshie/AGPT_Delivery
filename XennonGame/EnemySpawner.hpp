@@ -1,8 +1,8 @@
 #pragma once
 #include "Loner.hpp"
 #include "Rusher.hpp"
-#include "../AGPT_Project1/Level.hpp"
-#include "../AGPT_Project1/ObjectPool.hpp"
+#include "Level.hpp"
+#include "ObjectPool.hpp"
 #include <random>
 
 class EnemySpawner {

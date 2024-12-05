@@ -1,0 +1,139 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Pedro\\Desktop\\AGPT_Delivery\\AGPT_Delivery\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{098C9AE8-3C01-4351-AAFC-832A300F57EE}|XennonGame\\XennonGame.vcxproj|C:\\Users\\Pedro\\Desktop\\AGPT_Delivery\\AGPT_Delivery\\XennonGame\\Rusher.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{098C9AE8-3C01-4351-AAFC-832A300F57EE}|XennonGame\\XennonGame.vcxproj|solutionrelative:XennonGame\\Rusher.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{098C9AE8-3C01-4351-AAFC-832A300F57EE}|XennonGame\\XennonGame.vcxproj|C:\\Users\\Pedro\\Desktop\\AGPT_Delivery\\AGPT_Delivery\\XennonGame\\PlayerShip.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{098C9AE8-3C01-4351-AAFC-832A300F57EE}|XennonGame\\XennonGame.vcxproj|solutionrelative:XennonGame\\PlayerShip.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{098C9AE8-3C01-4351-AAFC-832A300F57EE}|XennonGame\\XennonGame.vcxproj|C:\\Users\\Pedro\\Desktop\\AGPT_Delivery\\AGPT_Delivery\\XennonGame\\Loner.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{098C9AE8-3C01-4351-AAFC-832A300F57EE}|XennonGame\\XennonGame.vcxproj|solutionrelative:XennonGame\\Loner.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{098C9AE8-3C01-4351-AAFC-832A300F57EE}|XennonGame\\XennonGame.vcxproj|C:\\Users\\Pedro\\Desktop\\AGPT_Delivery\\AGPT_Delivery\\XennonGame\\Explosion.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{098C9AE8-3C01-4351-AAFC-832A300F57EE}|XennonGame\\XennonGame.vcxproj|solutionrelative:XennonGame\\Explosion.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{098C9AE8-3C01-4351-AAFC-832A300F57EE}|XennonGame\\XennonGame.vcxproj|C:\\Users\\Pedro\\Desktop\\AGPT_Delivery\\AGPT_Delivery\\XennonGame\\EnemySpawner.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{098C9AE8-3C01-4351-AAFC-832A300F57EE}|XennonGame\\XennonGame.vcxproj|solutionrelative:XennonGame\\EnemySpawner.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{098C9AE8-3C01-4351-AAFC-832A300F57EE}|XennonGame\\XennonGame.vcxproj|C:\\Users\\Pedro\\Desktop\\AGPT_Delivery\\AGPT_Delivery\\XennonGame\\Background.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{098C9AE8-3C01-4351-AAFC-832A300F57EE}|XennonGame\\XennonGame.vcxproj|solutionrelative:XennonGame\\Background.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{098C9AE8-3C01-4351-AAFC-832A300F57EE}|XennonGame\\XennonGame.vcxproj|C:\\Users\\Pedro\\Desktop\\AGPT_Delivery\\AGPT_Delivery\\XennonGame\\Bullet.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{098C9AE8-3C01-4351-AAFC-832A300F57EE}|XennonGame\\XennonGame.vcxproj|solutionrelative:XennonGame\\Bullet.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Rusher.hpp",
+              "DocumentMoniker": "C:\\Users\\Pedro\\Desktop\\AGPT_Delivery\\AGPT_Delivery\\XennonGame\\Rusher.hpp",
+              "RelativeDocumentMoniker": "XennonGame\\Rusher.hpp",
+              "ToolTip": "C:\\Users\\Pedro\\Desktop\\AGPT_Delivery\\AGPT_Delivery\\XennonGame\\Rusher.hpp",
+              "RelativeToolTip": "XennonGame\\Rusher.hpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-12-05T21:17:45.453Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PlayerShip.hpp",
+              "DocumentMoniker": "C:\\Users\\Pedro\\Desktop\\AGPT_Delivery\\AGPT_Delivery\\XennonGame\\PlayerShip.hpp",
+              "RelativeDocumentMoniker": "XennonGame\\PlayerShip.hpp",
+              "ToolTip": "C:\\Users\\Pedro\\Desktop\\AGPT_Delivery\\AGPT_Delivery\\XennonGame\\PlayerShip.hpp",
+              "RelativeToolTip": "XennonGame\\PlayerShip.hpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-12-05T21:17:14.986Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Loner.hpp",
+              "DocumentMoniker": "C:\\Users\\Pedro\\Desktop\\AGPT_Delivery\\AGPT_Delivery\\XennonGame\\Loner.hpp",
+              "RelativeDocumentMoniker": "XennonGame\\Loner.hpp",
+              "ToolTip": "C:\\Users\\Pedro\\Desktop\\AGPT_Delivery\\AGPT_Delivery\\XennonGame\\Loner.hpp",
+              "RelativeToolTip": "XennonGame\\Loner.hpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-12-05T21:16:47.921Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Explosion.hpp",
+              "DocumentMoniker": "C:\\Users\\Pedro\\Desktop\\AGPT_Delivery\\AGPT_Delivery\\XennonGame\\Explosion.hpp",
+              "RelativeDocumentMoniker": "XennonGame\\Explosion.hpp",
+              "ToolTip": "C:\\Users\\Pedro\\Desktop\\AGPT_Delivery\\AGPT_Delivery\\XennonGame\\Explosion.hpp",
+              "RelativeToolTip": "XennonGame\\Explosion.hpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-12-05T21:16:46.817Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "EnemySpawner.hpp",
+              "DocumentMoniker": "C:\\Users\\Pedro\\Desktop\\AGPT_Delivery\\AGPT_Delivery\\XennonGame\\EnemySpawner.hpp",
+              "RelativeDocumentMoniker": "XennonGame\\EnemySpawner.hpp",
+              "ToolTip": "C:\\Users\\Pedro\\Desktop\\AGPT_Delivery\\AGPT_Delivery\\XennonGame\\EnemySpawner.hpp",
+              "RelativeToolTip": "XennonGame\\EnemySpawner.hpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-12-05T21:16:35.433Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Background.hpp",
+              "DocumentMoniker": "C:\\Users\\Pedro\\Desktop\\AGPT_Delivery\\AGPT_Delivery\\XennonGame\\Background.hpp",
+              "RelativeDocumentMoniker": "XennonGame\\Background.hpp",
+              "ToolTip": "C:\\Users\\Pedro\\Desktop\\AGPT_Delivery\\AGPT_Delivery\\XennonGame\\Background.hpp",
+              "RelativeToolTip": "XennonGame\\Background.hpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-12-05T21:16:33.577Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Bullet.hpp",
+              "DocumentMoniker": "C:\\Users\\Pedro\\Desktop\\AGPT_Delivery\\AGPT_Delivery\\XennonGame\\Bullet.hpp",
+              "RelativeDocumentMoniker": "XennonGame\\Bullet.hpp",
+              "ToolTip": "C:\\Users\\Pedro\\Desktop\\AGPT_Delivery\\AGPT_Delivery\\XennonGame\\Bullet.hpp",
+              "RelativeToolTip": "XennonGame\\Bullet.hpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-12-05T21:15:55.354Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

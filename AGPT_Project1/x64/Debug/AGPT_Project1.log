@@ -1,32 +1,32 @@
 ﻿C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(517,5): warning MSB8004: Output Directory does not end with a trailing slash.  This build instance will add the slash as it is required to allow proper evaluation of the Output Directory.
   main.cpp
-D:\AdvancedPrograming\AGPT_Project1\AGPT_Project1\Graphics.hpp(23,8): warning C4099: 'SDL_Window': type name first seen using 'struct' now seen using 'class'
+C:\Users\Pedro\Desktop\AGPT_Delivery\AGPT_Delivery\AGPT_Project1\Graphics.hpp(23,8): warning C4099: 'SDL_Window': type name first seen using 'struct' now seen using 'class'
   (compiling source file 'main.cpp')
-      D:\AdvancedPrograming\AGPT_Project1\Vendor\SDL2\include\SDL_video.h(95,16):
+      C:\Users\Pedro\Desktop\AGPT_Delivery\AGPT_Delivery\Vendor\SDL2\include\SDL_video.h(95,16):
       see declaration of 'SDL_Window'
   
-D:\AdvancedPrograming\AGPT_Project1\AGPT_Project1\Graphics.hpp(24,8): warning C4099: 'SDL_Renderer': type name first seen using 'struct' now seen using 'class'
+C:\Users\Pedro\Desktop\AGPT_Delivery\AGPT_Delivery\AGPT_Project1\Graphics.hpp(24,8): warning C4099: 'SDL_Renderer': type name first seen using 'struct' now seen using 'class'
   (compiling source file 'main.cpp')
-      D:\AdvancedPrograming\AGPT_Project1\Vendor\SDL2\include\SDL_render.h(141,8):
+      C:\Users\Pedro\Desktop\AGPT_Delivery\AGPT_Delivery\Vendor\SDL2\include\SDL_render.h(141,8):
       see declaration of 'SDL_Renderer'
   
-D:\AdvancedPrograming\AGPT_Project1\AGPT_Project1\AIMovementComponent.hpp(24,43): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\Pedro\Desktop\AGPT_Delivery\AGPT_Delivery\AGPT_Project1\AIMovementComponent.hpp(24,43): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
   (compiling source file 'main.cpp')
   
-D:\AdvancedPrograming\AGPT_Project1\AGPT_Project1\AIMovementComponent.hpp(28,43): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\Pedro\Desktop\AGPT_Delivery\AGPT_Delivery\AGPT_Project1\AIMovementComponent.hpp(28,43): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
   (compiling source file 'main.cpp')
   
-D:\AdvancedPrograming\AGPT_Project1\AGPT_Project1\AIMovementComponent.hpp(37,43): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\Pedro\Desktop\AGPT_Delivery\AGPT_Delivery\AGPT_Project1\AIMovementComponent.hpp(37,43): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
   (compiling source file 'main.cpp')
   
-D:\AdvancedPrograming\AGPT_Project1\AGPT_Project1\AIMovementComponent.hpp(41,43): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\Pedro\Desktop\AGPT_Delivery\AGPT_Delivery\AGPT_Project1\AIMovementComponent.hpp(41,43): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
   (compiling source file 'main.cpp')
   
 C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.42.34433\include\xutility(406,82): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
   (compiling source file 'main.cpp')
       C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.42.34433\include\xutility(406,82):
       the template instantiation context (the oldest one first) is
-          D:\AdvancedPrograming\AGPT_Project1\AGPT_Project1\AnimationComponent.hpp(19,26):
+          C:\Users\Pedro\Desktop\AGPT_Delivery\AGPT_Delivery\AGPT_Project1\AnimationComponent.hpp(19,26):
           see reference to function template instantiation 'std::shared_ptr<Animation> std::make_shared<Animation,Sprite*,const int&,const int&,unsigned __int64,float&,unsigned __int64,int>(Sprite *&&,const int &,const int &,unsigned __int64 &&,float &,unsigned __int64 &&,int &&)' being compiled
           C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.42.34433\include\memory(2906,46):
           see reference to function template instantiation 'std::_Ref_count_obj2<Animation>::_Ref_count_obj2<_Ty,const int&,const int&,unsigned __int64,float&,unsigned __int64,int>(_Ty &&,const int &,const int &,unsigned __int64 &&,float &,unsigned __int64 &&,int &&)' being compiled
@@ -49,7 +49,7 @@ C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.42.3443
   (compiling source file 'main.cpp')
       C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.42.34433\include\xutility(406,82):
       the template instantiation context (the oldest one first) is
-          D:\AdvancedPrograming\AGPT_Project1\XennonGame\XennonGame.cpp(78,23):
+          C:\Users\Pedro\Desktop\AGPT_Delivery\AGPT_Delivery\XennonGame\XennonGame.cpp(78,23):
           see reference to function template instantiation 'std::shared_ptr<PlayerShip> std::make_shared<PlayerShip,SDL_Renderer*,int,int,CollisionManager&>(SDL_Renderer *&&,int &&,int &&,CollisionManager &)' being compiled
           C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.42.34433\include\memory(2906,46):
           see reference to function template instantiation 'std::_Ref_count_obj2<PlayerShip>::_Ref_count_obj2<_Ty,int,int,CollisionManager&>(_Ty &&,int &&,int &&,CollisionManager &)' being compiled
@@ -64,4 +64,4 @@ C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.42.3443
               _Ty=PlayerShip
           ]
   
-  AGPT_Project1.vcxproj -> D:\AdvancedPrograming\AGPT_Project1\Vendor\Engine\AGPT_Project1.lib
+  AGPT_Project1.vcxproj -> C:\Users\Pedro\Desktop\AGPT_Delivery\AGPT_Delivery\Vendor\Engine\AGPT_Project1.lib

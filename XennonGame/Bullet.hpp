@@ -1,8 +1,8 @@
 #pragma once
-#include "../AGPT_Project1/GameObject.hpp"
-#include "../AGPT_Project1/CollisionComponent.hpp"
-#include "../AGPT_Project1/MovementComponent.hpp"
-#include "../AGPT_Project1/AnimationComponent.hpp"
+#include "GameObject.hpp"
+#include "CollisionComponent.hpp"
+#include "MovementComponent.hpp"
+#include "AnimationComponent.hpp"
 #include <iostream>
 
 class Bullet : public GameObject {

@@ -1,10 +1,10 @@
 #pragma once
-#include "../AGPT_Project1/GameObject.hpp"
-#include "../AGPT_Project1/AnimationComponent.hpp"
-#include "../AGPT_Project1/AIMovementComponent.hpp"
-#include "../AGPT_Project1/CollisionComponent.hpp"
-#include "../AGPT_Project1/ObjectPool.hpp"
-#include "../AGPT_Project1/CollisionManager.hpp"
+#include "GameObject.hpp"
+#include "AnimationComponent.hpp"
+#include "AIMovementComponent.hpp"
+#include "CollisionComponent.hpp"
+#include "ObjectPool.hpp"
+#include "CollisionManager.hpp"
 #include "Bullet.hpp"
 #include <iostream>
 
