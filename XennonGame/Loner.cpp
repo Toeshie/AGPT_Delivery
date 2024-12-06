@@ -87,6 +87,16 @@ void Loner::Update(float deltaTime) {
                 }
             }
         }
+    } else {
+        // Ensure all bullets are released if Loner is not active
+        if (bulletPool) {
+            for (size_t i = 0; i < bulletPool->GetActiveCount(); ++i) {
+                auto bullet = bulletPool->GetActiveObject(i);
+                if (bullet) {
+                    bulletPool->Release(bullet);
+                }
+            }
+        }
     }
 }
 
@@ -124,7 +134,7 @@ void Loner::HandleCollision(CollisionComponent* other) {
     if (colliderType == CollisionComponent::ColliderType::PLAYER_BULLET) {
         //std::cout << "Loner hit by bullet!" << std::endl;
         SetActive(false);
-        // Release all active bullets when Loner is destroyed
+        
         if (bulletPool) {
             for (size_t i = 0; i < bulletPool->GetActiveCount(); ++i) {
                 auto bullet = bulletPool->GetActiveObject(i);

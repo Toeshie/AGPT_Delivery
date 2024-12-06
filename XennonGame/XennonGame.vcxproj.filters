@@ -33,6 +33,9 @@
     <ClCompile Include="EnemySpawner.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="Explosion.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="PlayerShip.hpp">
@@ -53,10 +56,10 @@
     <ClInclude Include="Bullet.hpp">
       <Filter>Header Files</Filter>
     </ClInclude>
-    <ClInclude Include="Explosion.hpp">
+    <ClInclude Include="LonerBullet.hpp">
       <Filter>Header Files</Filter>
     </ClInclude>
-    <ClInclude Include="LonerBullet.hpp">
+    <ClInclude Include="Explosion.hpp">
       <Filter>Header Files</Filter>
     </ClInclude>
   </ItemGroup>

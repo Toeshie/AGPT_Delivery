@@ -3,10 +3,6 @@
   "WorkspaceRootPath": "C:\\Users\\Pedro\\Desktop\\AGPT_Delivery\\AGPT_Delivery\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{098C9AE8-3C01-4351-AAFC-832A300F57EE}|XennonGame\\XennonGame.vcxproj|C:\\Users\\Pedro\\Desktop\\AGPT_Delivery\\AGPT_Delivery\\XennonGame\\ClassDiagram.cd||{59B0B277-7DDF-4E36-A3ED-02DAC5B9E2FA}|",
-      "RelativeMoniker": "D:0:0:{098C9AE8-3C01-4351-AAFC-832A300F57EE}|XennonGame\\XennonGame.vcxproj|solutionrelative:XennonGame\\ClassDiagram.cd||{59B0B277-7DDF-4E36-A3ED-02DAC5B9E2FA}|"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{098C9AE8-3C01-4351-AAFC-832A300F57EE}|XennonGame\\XennonGame.vcxproj|C:\\Users\\Pedro\\Desktop\\AGPT_Delivery\\AGPT_Delivery\\XennonGame\\XennonGame.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{098C9AE8-3C01-4351-AAFC-832A300F57EE}|XennonGame\\XennonGame.vcxproj|solutionrelative:XennonGame\\XennonGame.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
@@ -23,24 +19,12 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "ClassDiagram.cd",
-              "DocumentMoniker": "C:\\Users\\Pedro\\Desktop\\AGPT_Delivery\\AGPT_Delivery\\XennonGame\\ClassDiagram.cd",
-              "RelativeDocumentMoniker": "XennonGame\\ClassDiagram.cd",
-              "ToolTip": "C:\\Users\\Pedro\\Desktop\\AGPT_Delivery\\AGPT_Delivery\\XennonGame\\ClassDiagram.cd*",
-              "RelativeToolTip": "XennonGame\\ClassDiagram.cd*",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000463|",
-              "WhenOpened": "2024-12-05T21:43:55.823Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
               "Title": "XennonGame.cpp",
               "DocumentMoniker": "C:\\Users\\Pedro\\Desktop\\AGPT_Delivery\\AGPT_Delivery\\XennonGame\\XennonGame.cpp",
               "RelativeDocumentMoniker": "XennonGame\\XennonGame.cpp",
               "ToolTip": "C:\\Users\\Pedro\\Desktop\\AGPT_Delivery\\AGPT_Delivery\\XennonGame\\XennonGame.cpp",
               "RelativeToolTip": "XennonGame\\XennonGame.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAHAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAUAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2024-12-05T21:30:06.222Z",
               "EditorCaption": ""

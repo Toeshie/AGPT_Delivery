@@ -15,7 +15,7 @@ public:
     // Constants for enemy (Loner) bullet sprite sheet
     static constexpr int ENEMY_FRAME_WIDTH = 16;   
     static constexpr int ENEMY_FRAME_HEIGHT = 16;  
-    static constexpr int ENEMY_FRAMES_COUNT = 8;   // Updated to 8 frames
+    static constexpr int ENEMY_FRAMES_COUNT = 8;  
     
     static constexpr float ANIMATION_FRAME_TIME = 0.05f;
 
@@ -27,7 +27,6 @@ public:
     {
         std::cout << "Creating new bullet" << std::endl;
         
-        // Add animation component with different sprite based on bullet type
         animationComponent = AddComponent<AnimationComponent>(
             renderer, 
             isPlayerBullet ? "graphics/missilePlayer.bmp" : "graphics/EnWeap6.bmp"
@@ -102,7 +101,7 @@ public:
         }
     }
 
-    // Add this method to verify collision component state
+    // verify collision component state
     void Update(float deltaTime) override {
         GameObject::Update(deltaTime);
         

@@ -135,6 +135,7 @@
   <ItemGroup>
     <ClCompile Include="Background.cpp" />
     <ClCompile Include="EnemySpawner.cpp" />
+    <ClCompile Include="Explosion.cpp" />
     <ClCompile Include="Loner.cpp" />
     <ClCompile Include="PlayerShip.cpp" />
     <ClCompile Include="Rusher.cpp" />

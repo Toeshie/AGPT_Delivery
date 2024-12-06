@@ -59,7 +59,6 @@ public:
 	void SetActive(bool active);
 	bool IsActive() const;
 
-	// Add these new methods
 	void SetX(float newX) { x = newX; }
 	void SetY(float newY) { y = newY; }
 	float GetInitialX() const { return initialX; }

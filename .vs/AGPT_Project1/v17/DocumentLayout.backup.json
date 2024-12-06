@@ -3,6 +3,42 @@
   "WorkspaceRootPath": "C:\\Users\\Pedro\\Desktop\\AGPT_Delivery\\AGPT_Delivery\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{B124DBFC-B512-4A90-AA96-8C01F2EF4D02}|AGPT_Project1\\AGPT_Project1.vcxproj|C:\\Users\\Pedro\\Desktop\\AGPT_Delivery\\AGPT_Delivery\\AGPT_Project1\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{B124DBFC-B512-4A90-AA96-8C01F2EF4D02}|AGPT_Project1\\AGPT_Project1.vcxproj|solutionrelative:AGPT_Project1\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B124DBFC-B512-4A90-AA96-8C01F2EF4D02}|AGPT_Project1\\AGPT_Project1.vcxproj|C:\\Users\\Pedro\\Desktop\\AGPT_Delivery\\AGPT_Delivery\\AGPT_Project1\\ObjectPool.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{B124DBFC-B512-4A90-AA96-8C01F2EF4D02}|AGPT_Project1\\AGPT_Project1.vcxproj|solutionrelative:AGPT_Project1\\ObjectPool.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B124DBFC-B512-4A90-AA96-8C01F2EF4D02}|AGPT_Project1\\AGPT_Project1.vcxproj|C:\\Users\\Pedro\\Desktop\\AGPT_Delivery\\AGPT_Delivery\\AGPT_Project1\\Sprite.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{B124DBFC-B512-4A90-AA96-8C01F2EF4D02}|AGPT_Project1\\AGPT_Project1.vcxproj|solutionrelative:AGPT_Project1\\Sprite.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B124DBFC-B512-4A90-AA96-8C01F2EF4D02}|AGPT_Project1\\AGPT_Project1.vcxproj|C:\\Users\\Pedro\\Desktop\\AGPT_Delivery\\AGPT_Delivery\\AGPT_Project1\\Level.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{B124DBFC-B512-4A90-AA96-8C01F2EF4D02}|AGPT_Project1\\AGPT_Project1.vcxproj|solutionrelative:AGPT_Project1\\Level.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B124DBFC-B512-4A90-AA96-8C01F2EF4D02}|AGPT_Project1\\AGPT_Project1.vcxproj|C:\\Users\\Pedro\\Desktop\\AGPT_Delivery\\AGPT_Delivery\\AGPT_Project1\\InputHandler.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{B124DBFC-B512-4A90-AA96-8C01F2EF4D02}|AGPT_Project1\\AGPT_Project1.vcxproj|solutionrelative:AGPT_Project1\\InputHandler.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B124DBFC-B512-4A90-AA96-8C01F2EF4D02}|AGPT_Project1\\AGPT_Project1.vcxproj|C:\\Users\\Pedro\\Desktop\\AGPT_Delivery\\AGPT_Delivery\\AGPT_Project1\\Graphics.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{B124DBFC-B512-4A90-AA96-8C01F2EF4D02}|AGPT_Project1\\AGPT_Project1.vcxproj|solutionrelative:AGPT_Project1\\Graphics.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B124DBFC-B512-4A90-AA96-8C01F2EF4D02}|AGPT_Project1\\AGPT_Project1.vcxproj|C:\\Users\\Pedro\\Desktop\\AGPT_Delivery\\AGPT_Delivery\\AGPT_Project1\\GameObject.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{B124DBFC-B512-4A90-AA96-8C01F2EF4D02}|AGPT_Project1\\AGPT_Project1.vcxproj|solutionrelative:AGPT_Project1\\GameObject.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B124DBFC-B512-4A90-AA96-8C01F2EF4D02}|AGPT_Project1\\AGPT_Project1.vcxproj|C:\\Users\\Pedro\\Desktop\\AGPT_Delivery\\AGPT_Delivery\\AGPT_Project1\\CollisionManager.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{B124DBFC-B512-4A90-AA96-8C01F2EF4D02}|AGPT_Project1\\AGPT_Project1.vcxproj|solutionrelative:AGPT_Project1\\CollisionManager.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B124DBFC-B512-4A90-AA96-8C01F2EF4D02}|AGPT_Project1\\AGPT_Project1.vcxproj|C:\\Users\\Pedro\\Desktop\\AGPT_Delivery\\AGPT_Delivery\\AGPT_Project1\\AnimationClass.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{B124DBFC-B512-4A90-AA96-8C01F2EF4D02}|AGPT_Project1\\AGPT_Project1.vcxproj|solutionrelative:AGPT_Project1\\AnimationClass.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{098C9AE8-3C01-4351-AAFC-832A300F57EE}|XennonGame\\XennonGame.vcxproj|C:\\Users\\Pedro\\Desktop\\AGPT_Delivery\\AGPT_Delivery\\XennonGame\\XennonGame.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{098C9AE8-3C01-4351-AAFC-832A300F57EE}|XennonGame\\XennonGame.vcxproj|solutionrelative:XennonGame\\XennonGame.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
@@ -14,17 +50,134 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Sprite.cpp",
+              "DocumentMoniker": "C:\\Users\\Pedro\\Desktop\\AGPT_Delivery\\AGPT_Delivery\\AGPT_Project1\\Sprite.cpp",
+              "RelativeDocumentMoniker": "AGPT_Project1\\Sprite.cpp",
+              "ToolTip": "C:\\Users\\Pedro\\Desktop\\AGPT_Delivery\\AGPT_Delivery\\AGPT_Project1\\Sprite.cpp",
+              "RelativeToolTip": "AGPT_Project1\\Sprite.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-12-06T03:01:12.813Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ObjectPool.cpp",
+              "DocumentMoniker": "C:\\Users\\Pedro\\Desktop\\AGPT_Delivery\\AGPT_Delivery\\AGPT_Project1\\ObjectPool.cpp",
+              "RelativeDocumentMoniker": "AGPT_Project1\\ObjectPool.cpp",
+              "ToolTip": "C:\\Users\\Pedro\\Desktop\\AGPT_Delivery\\AGPT_Delivery\\AGPT_Project1\\ObjectPool.cpp",
+              "RelativeToolTip": "AGPT_Project1\\ObjectPool.cpp",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAABoAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-12-06T03:01:08.896Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "main.cpp",
+              "DocumentMoniker": "C:\\Users\\Pedro\\Desktop\\AGPT_Delivery\\AGPT_Delivery\\AGPT_Project1\\main.cpp",
+              "RelativeDocumentMoniker": "AGPT_Project1\\main.cpp",
+              "ToolTip": "C:\\Users\\Pedro\\Desktop\\AGPT_Delivery\\AGPT_Delivery\\AGPT_Project1\\main.cpp",
+              "RelativeToolTip": "AGPT_Project1\\main.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-12-06T03:00:58.552Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Level.cpp",
+              "DocumentMoniker": "C:\\Users\\Pedro\\Desktop\\AGPT_Delivery\\AGPT_Delivery\\AGPT_Project1\\Level.cpp",
+              "RelativeDocumentMoniker": "AGPT_Project1\\Level.cpp",
+              "ToolTip": "C:\\Users\\Pedro\\Desktop\\AGPT_Delivery\\AGPT_Delivery\\AGPT_Project1\\Level.cpp",
+              "RelativeToolTip": "AGPT_Project1\\Level.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-12-06T03:00:55.745Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "InputHandler.cpp",
+              "DocumentMoniker": "C:\\Users\\Pedro\\Desktop\\AGPT_Delivery\\AGPT_Delivery\\AGPT_Project1\\InputHandler.cpp",
+              "RelativeDocumentMoniker": "AGPT_Project1\\InputHandler.cpp",
+              "ToolTip": "C:\\Users\\Pedro\\Desktop\\AGPT_Delivery\\AGPT_Delivery\\AGPT_Project1\\InputHandler.cpp",
+              "RelativeToolTip": "AGPT_Project1\\InputHandler.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-12-06T03:00:50.362Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Graphics.cpp",
+              "DocumentMoniker": "C:\\Users\\Pedro\\Desktop\\AGPT_Delivery\\AGPT_Delivery\\AGPT_Project1\\Graphics.cpp",
+              "RelativeDocumentMoniker": "AGPT_Project1\\Graphics.cpp",
+              "ToolTip": "C:\\Users\\Pedro\\Desktop\\AGPT_Delivery\\AGPT_Delivery\\AGPT_Project1\\Graphics.cpp",
+              "RelativeToolTip": "AGPT_Project1\\Graphics.cpp",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-12-06T03:00:46.646Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "GameObject.cpp",
+              "DocumentMoniker": "C:\\Users\\Pedro\\Desktop\\AGPT_Delivery\\AGPT_Delivery\\AGPT_Project1\\GameObject.cpp",
+              "RelativeDocumentMoniker": "AGPT_Project1\\GameObject.cpp",
+              "ToolTip": "C:\\Users\\Pedro\\Desktop\\AGPT_Delivery\\AGPT_Delivery\\AGPT_Project1\\GameObject.cpp",
+              "RelativeToolTip": "AGPT_Project1\\GameObject.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-12-06T03:00:42.815Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "CollisionManager.cpp",
+              "DocumentMoniker": "C:\\Users\\Pedro\\Desktop\\AGPT_Delivery\\AGPT_Delivery\\AGPT_Project1\\CollisionManager.cpp",
+              "RelativeDocumentMoniker": "AGPT_Project1\\CollisionManager.cpp",
+              "ToolTip": "C:\\Users\\Pedro\\Desktop\\AGPT_Delivery\\AGPT_Delivery\\AGPT_Project1\\CollisionManager.cpp",
+              "RelativeToolTip": "AGPT_Project1\\CollisionManager.cpp",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-12-06T03:00:38.758Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "AnimationClass.cpp",
+              "DocumentMoniker": "C:\\Users\\Pedro\\Desktop\\AGPT_Delivery\\AGPT_Delivery\\AGPT_Project1\\AnimationClass.cpp",
+              "RelativeDocumentMoniker": "AGPT_Project1\\AnimationClass.cpp",
+              "ToolTip": "C:\\Users\\Pedro\\Desktop\\AGPT_Delivery\\AGPT_Delivery\\AGPT_Project1\\AnimationClass.cpp",
+              "RelativeToolTip": "AGPT_Project1\\AnimationClass.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-12-06T03:00:36.313Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
               "Title": "XennonGame.cpp",
               "DocumentMoniker": "C:\\Users\\Pedro\\Desktop\\AGPT_Delivery\\AGPT_Delivery\\XennonGame\\XennonGame.cpp",
               "RelativeDocumentMoniker": "XennonGame\\XennonGame.cpp",
               "ToolTip": "C:\\Users\\Pedro\\Desktop\\AGPT_Delivery\\AGPT_Delivery\\XennonGame\\XennonGame.cpp",
               "RelativeToolTip": "XennonGame\\XennonGame.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAWAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2024-12-05T21:30:06.222Z",
               "EditorCaption": ""

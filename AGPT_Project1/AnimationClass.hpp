@@ -34,7 +34,7 @@ private:
 	Uint32 lastFrameTime;
 	int startX;
 	int startY;
-	bool isLooping = true;  // New variable for loop control
+	bool isLooping = true; 
 };
 
 #endif // ANIMATIONCLASS_HPP
